@@ -9,15 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- **✅ Solved 500+ problems on LeetCode & GFG**
 
-- 🌱 I’m currently learning **Nodejs**
+- **💻 Full Stack Developer & AI Enthusiast**
 
 - 💬 Ask me about **JAVA,MERN,DSA**
 
-- 📫 How to reach me **jeelanmohammed@529gmail.com**
+- **🏆 Winner of Hackathon**
 
-- ⚡ Fun fact **I am Funny**
+-  **🌍 Actively participating in Hackathons & Open Source Contributions**
+
+- 📫 How to reach me **jeelanmohammed@529gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
