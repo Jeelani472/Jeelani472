@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mulla-abdul-khader-jeelani-30981a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mulla-abdul-khader-jeelani-30981a258" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/mulla-abdul-khader-jeelani-30981a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mulla-abdul-khader-jeelani-30981a258" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/jeelanmohe65j/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ak_jeelan486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak_jeelan486" height="30" width="40" /></a>
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/ak_jeelan486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak_jeelan486" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/https://leetcode.com/u/jeelan486/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jeelan486/" height="30" width="40" /></a>
 </p>
 
