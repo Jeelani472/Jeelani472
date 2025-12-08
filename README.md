@@ -1,7 +1,8 @@
 ![MasterHead](https://www.bing.com/th/id/OGC.9db16a01e0d132c81051ac346ed20598?pid=1.7&rurl=https%3a%2f%2fwww.digitalsolutionservices.com%2fimg%2fservices%2fweb+development.gif&ehk=iteHsYrx2JlxzZFROlthiTrvJjvXbCcV1r%2bI8BWkbsY%3d)
 
 <h1 align="center">Hi 👋, I'm M.Abdul Khader Jeelani</h1>
-<h3 align="center">Building web applications from front-end to back-end with passion and precision</h3>
+<h3 align="center">Building web applications from front-end to back-end with passion and precision and Ensuring smooth, reliable systems through efficient troubleshooting and cloud-driven solutions.
+</h3>
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,15 +10,28 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- **✅ Solved 500+ problems on LeetCode & GFG**
+***🚀 About Me***
+- **✅ Strong problem-solving skills 700+ DSA problems**
 
 - **💻 Full Stack Developer & AI Enthusiast**
 
-- 💬 Ask me about **JAVA,MERN,DSA**
+- 💬 **Hands-on with Linux, Networking basics, REST APIs, Docker, MERN**
 
 - **🏆 Winner of Hackathon**
 
--  **🌍 Actively participating in Hackathons & Open Source Contributions**
+-  **🌍 Love debugging issues and improving performance**
+
+ ***💡What I Work On***
+  
+-   **Technical Support & Cloud fundamentals**
+
+-   **Backend development (Node.js / Express / Java basics)**
+
+-   **Linux commands & server handling**
+  
+-   **Debugging, logs analysis, error resolution**
+
+-   **Web apps & API-based projects**
 
 - 📫 How to reach me **jeelanmohammed@529gmail.com**
 
