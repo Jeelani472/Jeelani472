@@ -1,6 +1,5 @@
-![MasterHead](https://www.bing.com/th/id/OGC.9db16a01e0d132c81051ac346ed20598?pid=1.7&rurl=https%3a%2f%2fwww.digitalsolutionservices.com%2fimg%2fservices%2fweb+development.gif&ehk=iteHsYrx2JlxzZFROlthiTrvJjvXbCcV1r%2bI8BWkbsY%3d)
-
-<h1 align="center">Hi 👋, I'm M.Abdul Khader Jeelani</h1>
+  ![MasterHead](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+<h1 align="left">Hi 👋, I'm M.Abdul Khader Jeelani</h1>
 <h3 align="center">Building web applications from front-end to back-end with passion and precision and Ensuring smooth, reliable systems through efficient troubleshooting and cloud-driven solutions.
 </h3>
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
