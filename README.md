@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Abdul Khader Jeelani</h1>
-<h3 align="center">Building web applications from front-end to back-end with passion and precision and Ensuring smooth, reliable systems through efficient troubleshooting and cloud-driven solutions.
+<h3 align="center"> Full Stack Developer passionate about building modern, scalable web applications and solving real-world problems through clean and efficient code.
 </h3>
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,26 +9,27 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 ***🚀 About Me***
-- **✅ Strong problem-solving skills 700+ DSA problems**
-
-- **💻 Full Stack Developer & AI Enthusiast**
-
-- 💬 **Hands-on with Linux, Networking basics, REST APIs, Docker, MERN**
-
-- **🏆 Winner of Hackathon**
-
--  **🌍 Love debugging issues and improving performance**
+ 💻 **Full Stack Developer** focused on **React.js, Node.js, Express.js & MongoDB**
+- 🧠 **Solved 700+ DSA problems** using Java and Python
+- 🔗 Experienced in building and integrating **REST APIs**
+- 🔐 Hands-on experience with **Authentication, JWT & protected APIs**
+- 🗄️ Experience working with **MongoDB & MySQL**
+- 🐳 Familiar with **Docker, Git/GitHub & Linux**
+- 🤖 Interested in **AI-powered applications and integrations**
+- 🏆 **Hackathon Winner** with experience building real-world applications
+- ⚡ Passionate about debugging, performance optimization and lear
 
  ***💡What I Work On***
   
--   **Technical Support & Cloud fundamentals**
 
--   **Backend development (Node.js / Express / Java basics)**
-
--   **Linux commands & server handling**
-  
--   **Debugging, logs analysis, error resolution**
-
+- ⚛️ **Frontend Development** — React.js, JavaScript, HTML, CSS, Tailwind CSS
+- 🟢 **Backend Development** — Node.js, Express.js, REST APIs
+- 🗄️ **Databases** — MongoDB, MySQL
+- 🔐 **Authentication & Security** — JWT, protected routes, API security
+- 🔗 **API Integration** — Building and consuming REST APIs
+- 🐳 **Development Tools** — Git, GitHub, Docker, Linux
+- 🤖 **AI Integration** — Building applications with AI APIs
+- 🧩 **Problem Solving** — Data Structures & Algorithms
 -   **Web apps & API-based projects**
 
 - 📫 How to reach me **jeelanmohammed@529gmail.com**
