@@ -9,7 +9,8 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 ***🚀 About Me***
- 💻 **Full Stack Developer** focused on **React.js, Node.js, Express.js & MongoDB**
+ 
+- 💻 **Full Stack Developer** focused on **React.js, Node.js, Express.js & MongoDB**
 - 🧠 **Solved 700+ DSA problems** using Java and Python
 - 🔗 Experienced in building and integrating **REST APIs**
 - 🔐 Hands-on experience with **Authentication, JWT & protected APIs**
